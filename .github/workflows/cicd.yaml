@@ -14,4 +14,4 @@ jobs:
         uses: actions/checkout@v4
  
       - name: Pull code from main Branch
-        run: "cd /home/dev/TrangoEnterprise/ && git pull origin main"
+        run: "cd /home/dev/trangomicrosoft/ && git pull origin main"
